@@ -1,5 +1,4 @@
-# Drilling_Field_App
-
+## Drilling Formula Calculator
 Drilling Formula Calculator is an interactive Streamlit web application designed for drilling engineers, students, and field personnel. It provides a comprehensive suite of calculators and reference tools for common drilling engineering formulas, including hydraulics, well control, drilling fluids, directional drilling, and more.
 
 Features
@@ -13,8 +12,9 @@ Directional Drilling Calculations: Survey methods, dogleg severity, and trajecto
 Visual Aids: Each calculator includes explanations and, where relevant, diagrams or images.
 User-Friendly Navigation: Organized by main categories and sub-tabs for quick access.
 
+## Project Structure
 
-
+```
 streamlit-calc-app/
 │
 ├── images/                   # All images used in the app
@@ -27,3 +27,4 @@ streamlit-calc-app/
 ├── content.txt               # Home page content
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This file
+```
