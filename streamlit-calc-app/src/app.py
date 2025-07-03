@@ -79,6 +79,11 @@ from views.drill_string_pressure_loss import drill_string_pressure_loss_calculat
 from views.surge_swab_pressure import surge_swab_pressure_calculator
 import base64
 
+
+
+def get_base64_image(image_path):
+    with open(image_path, "rb") as img_file:
+         return base64.b64encode(img_file.read()).decode()
 def main():
     #st.image("/Users/sametgirgin/Drilling App/images/RePathLogo.png", use_container_width=True)
 
@@ -116,10 +121,6 @@ def main():
                 formatted += "\n"
 
         st.markdown(formatted)
-        
-        def get_base64_image(image_path):
-            with open(image_path, "rb") as img_file:
-                return base64.b64encode(img_file.read()).decode()
     
         image_path = os.path.join(os.path.dirname(__file__), '..', 'images', 'RePathLogo.png')
         img_base64 = get_base64_image(image_path)
