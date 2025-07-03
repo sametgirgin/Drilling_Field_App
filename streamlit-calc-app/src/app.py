@@ -116,6 +116,21 @@ def main():
                 formatted += "\n"
 
         st.markdown(formatted)
+        
+        def get_base64_image(image_path):
+            with open(image_path, "rb") as img_file:
+                return base64.b64encode(img_file.read()).decode()
+    
+        image_path = os.path.join(os.path.dirname(__file__), '..', 'images', 'RePathLogo.png')
+        img_base64 = get_base64_image(image_path)
+        st.markdown(
+        f"""
+        <div style='text-align: right;'>
+            <img src='data:image/png;base64,{img_base64}' width='160'>
+        </div>
+        """,
+        unsafe_allow_html=True
+        )
     elif selected_main == "Applied Drilling Formulas":
         sub_tabs = [
             "Drill Collar Weight",
@@ -393,19 +408,7 @@ def main():
     
     #st.image("../images/RePathLogo.png", width=160)
 
-    def get_base64_image(image_path):
-        with open(image_path, "rb") as img_file:
-            return base64.b64encode(img_file.read()).decode()
 
-    image_path = os.path.join(os.path.dirname(__file__), '..', 'images', 'RePathLogo.png')
-    img_base64 = get_base64_image(image_path)
-    st.markdown(
-    f"""
-    <div style='text-align: right;'>
-        <img src='data:image/png;base64,{img_base64}' width='160'>
-    </div>
-    """,
-    unsafe_allow_html=True
 )
 if __name__ == "__main__":
     main()
