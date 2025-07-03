@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 from views.calculation_tab1 import calculation_tab1
 from views.calculation_tab2 import calculation_tab2
 from views.calculation_tab3 import calculation_tab3
@@ -76,7 +77,6 @@ from views.flow_behavior_index import flow_behavior_index_calculator
 from views.bit_nozzle_pressure_drop import bit_nozzle_pressure_drop_calculator
 from views.drill_string_pressure_loss import drill_string_pressure_loss_calculator
 from views.surge_swab_pressure import surge_swab_pressure_calculator
-import os
 import base64
 
 def main():
