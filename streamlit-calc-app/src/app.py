@@ -77,8 +77,6 @@ from views.flow_behavior_index import flow_behavior_index_calculator
 from views.bit_nozzle_pressure_drop import bit_nozzle_pressure_drop_calculator
 from views.drill_string_pressure_loss import drill_string_pressure_loss_calculator
 from views.surge_swab_pressure import surge_swab_pressure_calculator
-import base64
-
 
 def main():
     #st.image("/Users/sametgirgin/Drilling App/images/RePathLogo.png", use_container_width=True)
