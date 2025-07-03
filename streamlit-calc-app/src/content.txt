@@ -1,0 +1,144 @@
+#Applied Drilling Formulas:
+
+Drill Collar Weight
+Effective Mud Density
+Equivalent Circulating Density (ECD) Using Yield Point for MW less than or equal to 13 ppg
+Equivalent Circulating Density (ECD) Using Yield Point for MW more than 13 ppg
+Lag time
+Light weight spot fill to balance formation pressure
+Loss of hydrostatic pressure due to filling water into annulus in case of lost return
+Margin of Over Pull (MOP)
+Maximum ROP Before Fracturing Formation
+Pipe Elongation Due to Temperature
+Pressure required to break circulation
+Pump out (both duplex and triplex pump)
+Pump Pressure and Pump Stroke Relationship
+Stuck Pipe Calculation
+Ton Miles Calculation
+Volume of Cutting Generated While Drilling
+
+#Basic Drilling Formulas:
+
+Accumulator Capacity
+Amount of cuttings drilled per foot of hole drilled
+Annular Capacity
+Annular Velocity (AV)
+Buoyancy Factor (BF)
+Buoyancy Factor (BF) with different fluid weight inside and outside
+Convert Temperature Unit
+Converting Pressure into Mud Weight
+Coring Cost Per Footage Recovered
+Depth of washout
+D-Exponent and D-Exponent Corrected
+Displacement of plain pipe such as casing, tubing, etc.
+Drilling Cost Per Foot
+Equivalent Circulating Density (ECD)
+Formation Integrity Test (FIT)
+Formation Temperature
+How many feet of drill pipe pulled to lose certain amount of hydrostatic pressure (psi)
+Hydrostatic Pressure (HP)
+Hydrostatic Pressure (HP) Decrease When POOH
+Inner Capacity of open hole, inside cylindrical objects
+Leak Off Test (LOT)
+Pressure and Force
+Pressure Gradient
+Slug Calculation
+Specific Gravity (SG)
+Total Bit Revolution in Mud Motor
+
+#Directional Drilling Calculation
+
+Directional Survey - Angle Averaging Method
+Directional Survey - Radius of Curvature Method
+Directional Survey - Balanced Tangential Method
+Directional Survey - Minimum Curvature Method
+Directional Survey - Tangential Method
+Dogleg Severity Calculation based on Radius of Curvature Method
+Dogleg Severity Calculation based on Tangential Method
+
+#Drilling Fluid Formulas:
+
+Bulk Density of Cuttings by using Mud Balance
+Decrease oil water ratio
+Determine oil water ratio from a retort analysis
+Determine the density of oil/water mixture
+Dilution to control LGS
+Increase mud weight by adding Barite
+Increase mud weight by adding Calcium Carbonate
+Increase mud weight by adding Hematite
+Increase oil water ratio
+Mixing Fluids of Different Densities with Pit Space Limitation
+Mixing Fluids of Different Densities without Pit Space Limitation
+Plastic Viscosity (PV) and Yield Point (YP) from mud test
+Reduce mud weight by dilution
+Solid Density From Retort Analysis
+
+#Hydraulic Formulas:
+
+Annular Pressure Loss
+Critical RPM
+Calculate Equivalent Circulating Density with Engineering Formula
+Bottom Hole Pressure from Wellhead Pressure in a Dry Gas Well
+Bit Nozzle Velocity
+Bit Aggressiveness
+Bit Hydraulic Horsepower
+Bit Hydraulic Horsepower Per Area of Drill Bit (HSI)
+Critical Flow Rate
+Cross Flow Velocity Under a Drilling Bit
+Cutting Carrying Index
+Cutting Slip Velocity Method#1
+Cutting Slip Velocity Method#2
+Effective Viscosity
+Hydraulic Horse Power (HPP)
+Impact Force of Jet Nozzles on Bottom Hole
+Mechanical Specific Energy
+Minimum Flow Rate PDC bit
+Optimum Flow Rate for basic system
+Power Law Constant
+Pressure Drop Across Bit
+Pressure Loss Annulus
+Pressure Loss Annulus With Tool Joint Correction
+Pressure Loss Drillstring
+Pressure Loss Drillstring With Tool Joint Correction
+Pressure Loss in Surface Equipment
+Reynold Number
+Surge and Swab Pressure Method#1
+Surge and Swab Pressure Method#2
+Total Flow Area Table
+
+#Well Control Formulas:
+
+Actual gas migration rate in a shut in well
+Adjusted maximum allowable shut-in casing pressure for new mud weight
+Calculate Influx Height
+Estimate gas migration rate with an empirical equation
+Estimate type of influx
+Final Circulating Pressure (FCP)
+Formation pressure from kick analysis
+Hydrostatic Pressure Loss Due to Gas Cut Mud
+Increase in Casing Pressure due to Kick Penetration
+Initial Circulating Pressure (ICP)
+Kick tolerance factor (KTF) / Maximum formation pressure (FP)
+Kill Weight Mud
+Lube Increment
+xMaximum influx height
+Maximum Initial Shut-In Casing Pressure (MISICP)
+Maximum pit gain from gas kick in water based mud
+Maximum Surface Pressure from Gas Influx in Water Based Mud
+Maximum surface pressure from kick tolerance information
+Mud Increment
+New Pressure Loss With New Mud (psi)
+New Pump Pressure With New Strokes (psi)
+Riser Margin
+Time To Penetrate Kick
+Trip margin
+Bottle Capacity Required in Accumulator
+
+#Drill String
+Tensile Capacity of Drill String
+
+#Cementing
+Squeeze Below Retainer and Balance Cement Plug Above Retainer
+Balance Cement Plug Above Retainer
+
+
