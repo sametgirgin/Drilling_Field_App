@@ -102,7 +102,8 @@ def main():
     if selected_main == "Home":
         st.title("Drilling Formula Calculator")
         # Read and format content.txt
-        with open("content.txt", "r") as f:
+        content_path = os.path.join(os.path.dirname(__file__), "content.txt")
+        with open(content_path, "r") as f:
             lines = f.readlines()
 
         formatted = ""
